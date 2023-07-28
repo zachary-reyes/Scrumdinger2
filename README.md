@@ -11,3 +11,5 @@ Use this project to code along with [Managing State and Life Cycle](https://deve
 * Added a `ScrumTimer` class.
 * Added sound resource file.
 
+# ScrumDinger Continued, Part 2
+
