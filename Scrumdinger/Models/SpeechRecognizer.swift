@@ -5,10 +5,6 @@
 //  Created by Zachary Reyes on 8/1/23.
 //
 
-/*
- See LICENSE folder for this sample’s licensing information.
- */
-
 import Foundation
 import AVFoundation
 import Speech
